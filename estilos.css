@@ -1,0 +1,31 @@
+*{
+    font: 1em;
+    text-align: justify;
+}
+p{
+    color:#555;
+}
+#primero p{
+    color:#336699;
+}
+/* todos los enlaces la pagina */
+a{
+    color:#cc3300;
+}
+
+/* los elementos em contenidos en #primero*/
+#primero em{
+background: #ffffcc;
+padding: 20px;
+}
+
+.especial{
+    background: #ffcc99;
+    border: 1px solid #ff9900;
+    padding: 1em;
+}
+
+
+.normal span{
+    font-weight: bold;
+}
